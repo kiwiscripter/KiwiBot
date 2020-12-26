@@ -4,5 +4,5 @@ module.exports = (msg, args, mod, mods) => {
 		key = "`!"+key+"`"
 		modlist = key + "\n"+modlist
 	}
-	msg.channel.send("here is the list of available commands\n"+modlist)
+	msg.channel.send("Here is the list of available commands\n"+modlist)
 }
