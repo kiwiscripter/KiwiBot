@@ -1,0 +1,12 @@
+{
+	"help": {
+		"title":"Help mod",
+		"description":"This mod prints a list of commands that are available",
+		"file_path":"./mods/help/"
+	},
+	"example": {
+		"title":"this is a title for my example mod",
+		"description":"this is a description for my example mod",
+		"file_path":"./mods/example/"
+	}
+}
