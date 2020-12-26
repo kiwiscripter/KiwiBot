@@ -1,6 +1,6 @@
 {
 	"help": {
-		"title":"Help mod",
+		"title":"Help Mod",
 		"description":"This mod prints a list of commands that are available",
 		"file_path":"./mods/help/"
 	},
