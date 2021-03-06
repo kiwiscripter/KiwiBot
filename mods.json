@@ -1,12 +1,14 @@
 {
 	"help": {
 		"title":"Help Mod",
+		"syntax":"help <command (optional)>",
 		"description":"This mod prints a list of commands that are available",
 		"file_path":"./mods/help/"
 	},
-	"example": {
-		"title":"this is a title for my example mod",
-		"description":"this is a description for my example mod",
-		"file_path":"./mods/example/"
+	"music": {
+		"title":"Music Mod",
+		"syntax":"music <command> <youtube link (required if the command is play)>",
+		"description":"Play musics in a voice channel",
+		"file_path":"./mods/music/"
 	}
 }
